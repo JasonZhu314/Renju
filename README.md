@@ -1,6 +1,6 @@
 # Renju
 
-This project is the assignment for the course "Introduction to Computing (A)" at Peking University. For detailed information, please refer to the PPT.
+This project is the assignment for the course "Introduction to Computing (A)" at Peking University. For detailed information, please refer to the PDF file.
 
 ## Notes
 
